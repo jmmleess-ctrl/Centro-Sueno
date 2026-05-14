@@ -1,5 +1,5 @@
 # Centro-Sueño
-Base de Datos Centro Sueño
+Base de Datos Centro Sueño para manejar un centro del sueño
 
 Archivo .ACCDB de la Base de Datos
 
