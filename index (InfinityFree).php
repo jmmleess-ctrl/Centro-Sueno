@@ -2,7 +2,7 @@
 session_start();
 
 $usuario_panel = "if0_41715230";
-$password_panel = "zSVCynW7ri"; 
+$password_panel = ""; 
 
 if (isset($_GET['logout'])) {
     session_destroy();
